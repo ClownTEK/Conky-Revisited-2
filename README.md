@@ -1,4 +1,5 @@
 # Conky-Revisited-2
+![alt tag](https://raw.githubusercontent.com/xexpanderx/Conky-Revisited-2/master/Screenshot.png)
 
 Conky config.
 
